@@ -1,0 +1,2 @@
+Dia 1
+Estoy aprendiendo Git desde cero
