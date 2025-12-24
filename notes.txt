@@ -2,3 +2,5 @@ Dia 1
 Estoy aprendiendo Git desde cero
 Dia 2 
 Hoy aprendí que git detecta cambios linea por linea
+Dia 3 
+Hoy aprendí que es un commit atómico.
