@@ -5,4 +5,4 @@ Hoy aprendí que git detecta cambios linea por linea
 Dia 3 
 Hoy aprendí que es un commit atómico.
 Dia 6
-Esto fue modificado directamente en main.
+Este texto fue consensuado tras resolver un conflicto.
