@@ -6,3 +6,5 @@ Dia 3
 Hoy aprendí que es un commit atómico.
 Dia 6
 Este texto fue consensuado tras resolver un conflicto.
+Dia 10 
+Hoy aprendí el flujo diario real con git y github
